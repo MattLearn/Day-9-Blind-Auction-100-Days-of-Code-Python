@@ -1,5 +1,5 @@
-from replit import clear
-#HINT: You can call clear() to clear the output in the console.
+#from replit import clear
+
 bids = {}
 print("welcome to auction")
 betting = True
